@@ -1,2 +1,2 @@
 # wer
-![Screenshot].(paint.png)
+![Screenshot](paint.png)
